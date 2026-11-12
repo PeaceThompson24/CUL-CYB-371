@@ -1,11 +1,11 @@
 # Student Dataset
 
 students = [
-    ["Emmanuel", "Computer Science", 300, 90, 85],
-    ["Micheal", "Accounting", 200, 85, 78],
-    ["Favour", "Economics", 300, 80, 75],
-    ["Joshua", "Biochemistry", 100, 95, 90],
-    ["Precious", "Mass Communication", 200, 88, 82]
+    ["24/15674", "Computer Science", 300, 90, 85],
+    ["25/14647", "Accounting", 200, 85, 78],
+    ["24/13567", "Economics", 300, 80, 75],
+    ["26/12950", "Biochemistry", 100, 95, 90],
+    ["25/15786", "Mass Communication", 200, 88, 82]
 ]
 
 # Display student information
