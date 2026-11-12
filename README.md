@@ -1,6 +1,5 @@
 Student Dataset Creation
-
-Introduction: 
+ 
 This project contains a fictional student dataset created using Python for the Data Mining and Data Warehousing assignment.
 
 Objective: 
