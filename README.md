@@ -1,12 +1,12 @@
 Student Dataset Creation
 
-Introduction
+Introduction: 
 This project contains a fictional student dataset created using Python for the Data Mining and Data Warehousing assignment.
 
-Objective
+Objective: 
 The aim of this project is to create and display information about five fictional students.
 
-Dataset Information
+Dataset Information:
 The dataset contains the following information:
 
 1. Student ID
@@ -15,11 +15,11 @@ The dataset contains the following information:
 4. Attendance Percentage
 5. Average Examination Score
 
-Programming Language
+Programming Language:
 Python
 
-Description
+Description: 
 The Python program stores five fictional students in a list and displays their information when executed.
 
-Conclusion
+Conclusion: 
 This project demonstrates how Python can be used to create and display a simple student dataset.
